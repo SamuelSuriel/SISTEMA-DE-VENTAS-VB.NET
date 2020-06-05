@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp1.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._1_Wireless_Animated">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._1495574037_floppy_disk_84506">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._2000px_Crystal_Clear_action_exit_svg">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._31351">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._313511">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._403939e58194b22be4237053b6084d11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources._58b8c549d1a2d9253b9713ea_EGAFutura_nuevo_registro_ERP">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.aa1504c4815edd2b">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.accept_thumb">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.brochure_1356246_960_720">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.cashier_icon_icons_com_53629">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.cashier_icon_icons1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.download">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.FORMPNG">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.FORMULARIOPNG">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.hello">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ico_menu">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.iconos_14mw_291x300">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.iconos_14mw_291x3001">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.inventary_report_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.inventary_report_icon1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.login_in_512">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.logo_hellovisitors_550">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.logo_hellovisitors_5501">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.new_add_user_16734">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.pedidos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.plus_add_blue">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.plus_add_minus">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.registro_dominios">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Reporte_I">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.secrecy_icon_26">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.social_icons">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WindowsApp1.masterDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSet.CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSet.CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSet.CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApp1.SISTEMA_DE_CLIENTESDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApp1.SISTEMA_DE_CLIENTESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApp1.SISTEMA_DE_CLIENTESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApp1.SISTEMA_DE_CLIENTESDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTESDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS.ARTICULOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS.ARTICULOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS.ARTICULOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.ARTICULOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.UpdateAll(WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApp1.SISTEMA_DE_CLIENTES_ARTICULOSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
